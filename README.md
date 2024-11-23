@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Get in Touch
-- **Email**: trofui@gmail.com
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:trofui@gmail.com)
 
 ---
 
