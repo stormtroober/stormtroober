@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Alessandro
-
-👨‍💻 **Software Developer | Problem Solver | Technology Enthusiast**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -39,7 +36,7 @@
 ---
 
 ## 📫 Get in Touch
-- **Email**: [trofui@gmail.com]  
+- **Email**: trofui@gmail.com
 
 ---
 
