@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Alessandro]  
+# 👋 Hi, I'm Alessandro
 
 👨‍💻 **Software Developer | Problem Solver | Technology Enthusiast**
 
