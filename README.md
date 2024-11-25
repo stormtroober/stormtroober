@@ -1,7 +1,24 @@
 
 # 👋 Hi, I'm Alessandro
----
+25 years old, I love everything tech, from cell phones to weather stations powered by esp32. I'm always curious about new frameworks or programming languages. In the past, it was my job and I had a bachelor's degree in it in 2022. I am referring to Computer Science, a passion that has been taking me along since high school. Currently, I have the luck to follow the Master Course of the same subject, and my current projects are always public repositories when I fulfill them.
+Here below some technologies I've been using throughout my journey!
 
+
+       **|**                          
+       **|**
+       **|**
+   **----+----**
+       **|**
+       **|**
+       **|**
+     **\   /**  
+      **\ /**  
+       **V**
+                       
+
+
+=======
+=======
 ## 🛠️ Tech Stack
 
 ### 🔧 Languages
@@ -17,7 +34,8 @@
 ---
 
 ### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
@@ -43,6 +61,6 @@
 ---
 
 ## 📫 Get in Touch
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:trofui@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:alessandro.becci@studio.unibo.it)  
 
 ---
