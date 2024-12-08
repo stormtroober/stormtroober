@@ -37,34 +37,20 @@ Here below some technologies I've been using throughout my journey!
 
 ## 🖥️💡 Portfolio
 
-***🚲 Microservices Ebikes***
-[![microservices-ebikes](https://hitsofcode.com/github/stormtroober/microservices-ebikes?branch=main)](https://hitsofcode.com/github/stormtroober/microservices-ebikes/view?branch=main)
+## I Nostri Progetti
 
-***
-
-***🔥 Scala Fire Tower***
-[![scala-fire-tower](https://hitsofcode.com/github/Fight-Fire-With-Scala/Scala-Fire-Tower?branch=main)](https://hitsofcode.com/github/Fight-Fire-With-Scala/Scala-Fire-Tower/view?branch=main)
-
-***
-
-
-<div style="display: flex; justify-content: space-around; align-items: center; border: 2px solid white; padding: 10px;">
-  <!-- Progetto 1: Microservices Ebikes -->
-  <div style="margin-right: 20px;">
-    <h3>🚲 **Microservices Ebikes**</h3>
+| 🚲 **Microservices Ebikes** | 🔥 **Scala Fire Tower** |
+| --------------------------- | ----------------------- |
+| <div style="margin-top: 30px;">
     <a href="https://hitsofcode.com/github/stormtroober/microservices-ebikes/view?branch=main">
-      <img src="https://hitsofcode.com/github/stormtroober/microservices-ebikes?branch=main" alt="Microservices Ebikes" />
+        <img src="https://hitsofcode.com/github/stormtroober/microservices-ebikes?branch=main" alt="Microservices Ebikes" />
     </a>
-  </div>
-
-  <!-- Progetto 2: Scala Fire Tower -->
-  <div>
-    <h3>🔥 **Scala Fire Tower**</h3>
+</div> | <div style="margin-top: 30px;">
     <a href="https://hitsofcode.com/github/Fight-Fire-With-Scala/Scala-Fire-Tower/view?branch=main">
-      <img src="https://hitsofcode.com/github/Fight-Fire-With-Scala/Scala-Fire-Tower?branch=main" alt="Scala Fire Tower" />
+        <img src="https://hitsofcode.com/github/Fight-Fire-With-Scala/Scala-Fire-Tower?branch=main" alt="Scala Fire Tower" />
     </a>
-  </div>
-</div>
+</div> |
+
 
 
 
