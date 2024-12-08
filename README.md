@@ -37,19 +37,6 @@ Here below some technologies I've been using throughout my journey!
 
 ## 🖥️💡 Portfolio
 
-## I Nostri Progetti
-
-| 🚲 **Microservices Ebikes** | 🔥 **Scala Fire Tower** |
-| --------------------------- | ----------------------- |
-| <div style="margin-top: 30px;">
-    <a href="https://hitsofcode.com/github/stormtroober/microservices-ebikes/view?branch=main">
-        <img src="https://hitsofcode.com/github/stormtroober/microservices-ebikes?branch=main" alt="Microservices Ebikes" />
-    </a>
-</div> | <div style="margin-top: 30px;">
-    <a href="https://hitsofcode.com/github/Fight-Fire-With-Scala/Scala-Fire-Tower/view?branch=main">
-        <img src="https://hitsofcode.com/github/Fight-Fire-With-Scala/Scala-Fire-Tower?branch=main" alt="Scala Fire Tower" />
-    </a>
-</div> |
 
 
 
