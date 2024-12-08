@@ -37,7 +37,7 @@ Here below some technologies I've been using throughout my journey!
 
 ## 🖥️💡 Portfolio
 
-### 🚀 **Progetto 1: Microservices Ebikes**
+### **Microservices Ebikes**
 [![microservices-ebikes](https://hitsofcode.com/github/stormtroober/microservices-ebikes?branch=main)](https://hitsofcode.com/github/stormtroober/microservices-ebikes/view?branch=main)
 
 
