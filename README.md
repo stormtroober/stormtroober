@@ -36,6 +36,6 @@ Here below some technologies I've been using throughout my journey!
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:alessandro.becci@studio.unibo.it)
 
 ## 🖥️💡 Portfolio
-[![Hits-of-Code](https://hitsofcode.com/github/TonelliLuca/SAP-ass-02?branch=main)](https://hitsofcode.com/github/TonelliLuca/SAP-ass-02/view?branch=main)
+[![Microservices-EBikes](https://hitsofcode.com/github/TonelliLuca/SAP-ass-02?branch=main)](https://hitsofcode.com/github/TonelliLuca/SAP-ass-02/view?branch=main)
 
 
