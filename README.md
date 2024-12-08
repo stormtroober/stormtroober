@@ -37,7 +37,8 @@ Here below some technologies I've been using throughout my journey!
 
 ## 🖥️💡 Portfolio
 
-<div style="display: flex; justify-content: space-around; align-items: center; border: 2px solid #3498db; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 10px;">
+
+<div style="display: flex; justify-content: space-around; align-items: center; border: 2px solid white; padding: 10px;">
   <!-- Progetto 1: Microservices Ebikes -->
   <div style="margin-right: 20px;">
     <h3>🚲 **Microservices Ebikes**</h3>
@@ -54,6 +55,7 @@ Here below some technologies I've been using throughout my journey!
     </a>
   </div>
 </div>
+
 
 
 
