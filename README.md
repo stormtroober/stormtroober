@@ -35,9 +35,6 @@ Here below some technologies I've been using throughout my journey!
 ### 📫 Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:alessandro.becci@studio.unibo.it)
 
-## 🖥️💡 Portfolio
-
-
 
 
 
