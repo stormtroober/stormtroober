@@ -32,7 +32,7 @@ I'm 26 years old and I love everything tech, from cell phones to weather station
 ---
 
 ### 📫 Get in Touch
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:alessandro.becci@studio.unibo.it)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:trofui@gmail.com)
 
 
 
