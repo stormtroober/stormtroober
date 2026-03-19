@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm Alessandro
-26 years old, I love everything tech, from cell phones to weather stations powered by esp32. I'm always curious about new frameworks or programming languages. In the past, it was my job and I had a bachelor's degree in it in 2022. I am referring to Computer Science, a passion that has been taking me along since high school. Currently, I have the luck to follow the Master Course of the same subject, and my current projects are always public repositories when I fulfill them.
-Here below some technologies I've been using throughout my journey!
+I'm 26 years old and I love everything tech, from cell phones to weather stations powered by ESP32. I'm always curious about new frameworks and programming languages. In the past, it was my job, and I earned a bachelor's degree in Computer Science in 2022, a passion that has been with me since high school. I recently completed my Master's in the same subject, and I'm currently focusing on personal projects involving Go and React, while actively looking for new opportunities. My projects are always published as public repositories once completed. Here below are some of the technologies I've been using throughout my journey!
 
 ## 🛠️ Tech Stack
 
